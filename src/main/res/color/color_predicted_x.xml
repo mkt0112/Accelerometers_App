@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <color android:name="color_predicted_x" tools:ignore="ExtraText">#FF4081</color> <!-- You can change the color value to your preference -->
+
+
+</selector>
